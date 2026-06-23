@@ -1,0 +1,9 @@
+{
+  "name": "poc-blue-green-app",
+  "version": "1.0.0",
+  "description": "Simple node app for AWS routing verification",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
